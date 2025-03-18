@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/ac3ec5a928.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/logo1.jpg" class="logo">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="header-text">
+            <p>Aspiring Full Stack Web Developer</p>
+            <h1>Hi, I am <span>Aryan Rajguru</span><br> from VSSUT,Burla</h1>
+        </div>
+
+    </div>
+<!---------------------About--------------------->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/user.jpg" >
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>The sun dipped below the horizon, painting the sky in hues of orange and pink as a gentle breeze rustled through the trees. Birds chirped their final songs of the day, while distant laughter echoed from a nearby park. The scent of freshly cut grass lingered in the air, blending with the faint aroma of blooming flowers. As the city lights flickered on one by one, the world seemed to slow down, embracing the quiet serenity of twilight.</p>
+                    
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links"onclick="opentab('education')">Education</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Core Java</span><br>Solving DSA Problems</li>
+                            <li><span>web Development</span><br>HTML,CSS,Js</li>
+                            <li><span>Database</span><br>MongoDB,Firebase</li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>January 2025</span><br>Hackathon Finalist at NIT Durgapur</li>
+                            <li><span>March 2025</span><br>Hacakthon Finalist at IIT BBSR</li>
+                            <li><span>April 2025</span><br>Google Solutions Challenge Particpant</li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>Mar 2021</span><br>Prabhujee EM School - 96%</li>
+                            <li><span>Mar 2023</span><br>Prabhujee EM School - 91%</li>
+                            <li><span>Apr 2028</span><br>VSSUT,Burla</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!---------------SErvices---------------------------->
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fa-solid fa-code"></i>
+                    <h2>BackEnd Development</h2>
+                    <p> Development by using technologies like Node.js , Express.js </p>
+                    <a href="#">Learn more</a>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-briefcase"></i>
+                    <h2>Freelacing</h2>
+                    <p> Making websites for different start-ups </p>
+                    <a href="#">Learn more</a>
+                </div>
+
+                <div>
+                    <i class="fa-brands fa-google"></i>
+                    <h2>Open Source Contributor</h2>
+                    <p> Contribute codes in different professional companies </p>
+                    <a href="#">Learn more</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <!---------------------------portfolio---------------------------->
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/work1.jpeg">
+                    <div class="layer">
+                        <h3>Exoplanet Quiz</h3>
+                        <p>This quiz will enhance your knowledge on Exoplanet .Give it try by answering fast.</p>
+                        <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+
+                <div class="work">
+                    <img src="images/work2.png">
+                    <div class="layer">
+                        <h3>Club Events</h3>
+                        <p>This helps the college clubs to manage club events in real time</p>
+                        <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+
+                <div class="work">
+                    <img src="images/work3.png">
+                    <div class="layer">
+                        <h3>IPL Auction Table</h3>
+                        <p>Basic HTML Players List showing the reatined , bought players in IPL Auction 2025</p>
+                        <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <a href="#" class="btn">See more...</a>
+
+
+        </div>
+    </div>
+
+    <!-----------------------------CONTACT------------------------>
+
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p><i class="fa-solid fa-envelope"></i><u>arnvk71@gmail.com</u></p>
+                    <p><i class="fa-solid fa-square-phone"></i>7008563024</p>
+
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com/vln_aryan_18?igsh=cTh1ZzV0d3V5OThq"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/aryan-rajguru-a1333230a/"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://x.com/CricketCraze11"><i class="fa-brands fa-square-x-twitter"></i></a>
+                        <a href="https://github.com/Aryan-R-18"><i class="fa-brands fa-github"></i></a>
+                    </div>
+
+                    <a href="" class="btn btn2">Download CV</a>
+                </div>
+
+
+                <div class="contact-right">
+                    <form>
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="email" placeholder="Your Email" required>
+                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn btn2">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p><i class="fa-solid fa-copyright"></i> Made with &hearts; by ARN R </p>
+        </div>
+
+    </div>
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+
+            }
+
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+                
+            }
+
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+
+
+    </script>
+    
+</body>
+</html>
