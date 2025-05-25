@@ -273,7 +273,7 @@ nav ul li a:hover::after{
     height: 100%;
 }
 
-.btn{
+.btn, .btn2 {
     display: block;
     margin: 50px auto;
     width: fit-content;
@@ -281,13 +281,21 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #fff;
-    transition: 0.5s;
-
+    color: #ff004f;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    position: relative;
 }
 
-.btn:hover{
+.btn:hover, .btn2:hover {
     background: #ff004f;
+    color: #fff;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(255, 0, 79, 0.3);
+}
+
+.btn:active, .btn2:active {
+    transform: translateY(0);
 }
 
 /*---------------------------Contact-------------*/
@@ -324,6 +332,10 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     color: #ff004f;
+}
+
+.btn.btn2:hover {
+    color: #fff !important;
 }
 
 .contact-right form{
