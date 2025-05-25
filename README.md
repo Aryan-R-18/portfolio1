@@ -1,7 +1,7 @@
 ## 🏏 Aryan Rajguru – On the Digital Pitch!
 
 <p align="center">
-  <img src="https://media.tenor.com/nE9ZAcUOE-EAAAAC/virat-kohli-century.gif" width="300" alt="Virat Kohli Celebrating">
+  <img src="https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/01/01/Pictures/india-vs-england-test-match-in-chennai_4f2f24b4-d01d-11e6-a1a7-f672457d0d7f.jpg" width="300" alt="Virat Kohli Celebrating"/>
 </p>
 
 ### 🎓 B. Tech CSE @ VSSUT Burla  
@@ -13,17 +13,17 @@ _Aryan Rajguru – A rising developer swinging through the web innings from the 
 
 | Skill            | Role                 | Icon                                                                 |
 |------------------|----------------------|-----------------------------------------------------------------------|
-| **HTML**         | Opener               | <img src="https://img.icons8.com/color/48/html-5--v1.png" height="30"/>  |
-| **CSS**          | Opener               | <img src="https://img.icons8.com/color/48/css3.png" height="30"/>     |
-| **Tailwind CSS** | Power Hitter         | <img src="https://img.icons8.com/color/48/tailwind_css.png" height="30"/> |
-| **Java**         | Middle Order         | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="30"/> |
-| **JavaScript**   | All-Rounder          | <img src="https://img.icons8.com/color/48/javascript--v1.png" height="30"/> |
-| **Node.js**      | Fast Bowler          | <img src="https://img.icons8.com/color/48/nodejs.png" height="30"/>   |
-| **Express.js**   | Line & Length Bowler | <img src="https://img.icons8.com/ios/50/express-js.png" height="30"/> |
-| **MongoDB**      | Spin Wizard          | <img src="https://img.icons8.com/color/48/mongodb.png" height="30"/>  |
-| **Firebase**     | Finisher             | <img src="https://img.icons8.com/color/48/firebase.png" height="30"/> |
-| **Linux**        | Ground Staff         | <img src="https://img.icons8.com/color/48/linux--v1.png" height="30"/>|
-| **GitHub**       | Team Captain         | <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="30"/> |
+| **HTML**         | Opener               | ![HTML](https://img.icons8.com/color/48/html-5--v1.png)  |
+| **CSS**          | Opener               | ![CSS](https://img.icons8.com/color/48/css3.png)     |
+| **Tailwind CSS** | Power Hitter         | ![Tailwind](https://img.icons8.com/color/48/tailwind_css.png) |
+| **Java**         | Middle Order         | ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) |
+| **JavaScript**   | All-Rounder          | ![JS](https://img.icons8.com/color/48/javascript--v1.png) |
+| **Node.js**      | Fast Bowler          | ![Node](https://img.icons8.com/color/48/nodejs.png)   |
+| **Express.js**   | Line & Length Bowler | ![Express](https://img.icons8.com/ios/50/express-js.png) |
+| **MongoDB**      | Spin Wizard          | ![Mongo](https://img.icons8.com/color/48/mongodb.png)  |
+| **Firebase**     | Finisher             | ![Firebase](https://img.icons8.com/color/48/firebase.png) |
+| **Linux**        | Ground Staff         | ![Linux](https://img.icons8.com/color/48/linux--v1.png)|
+| **GitHub**       | Team Captain         | ![GitHub](https://img.icons8.com/ios-glyphs/48/github.png) |
 
 ---
 
@@ -38,7 +38,7 @@ _Aryan Rajguru – A rising developer swinging through the web innings from the 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/jpMkz2_07F0AAAAM/virat-kohli-sixer.gif" width="350" alt="Kohli Sixer">
+  <img src="https://www.sangbadpratidin.in/wp-content/uploads/2024/11/VIRAT-GIF.gif"/>
 </p>
 
 ---
@@ -61,14 +61,14 @@ _Aryan Rajguru – A rising developer swinging through the web innings from the 
 
 ## 📣 Get in Touch
 
-- 📧 [Your Email]
-- 🔗 [Your LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/aryan-rajguru-a1333230a/))
+- 📧 [Email](mailto:arnvk71@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-rajguru-a1333230a/)
 - 🐙 [GitHub](https://github.com/Aryan-R-18)
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/BceZqDt2wkIAAAAC/virat-kohli-angry.gif" width="300" alt="Kohli Focused">
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="300" alt="Kohli Focused"/>
 </p>
 
 > 🏏 Let's code like Kohli bats – consistent, aggressive, and legendary!
